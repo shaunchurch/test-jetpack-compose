@@ -1,0 +1,2 @@
+rootProject.name = "My Jetpack Compose"
+include ':app'
